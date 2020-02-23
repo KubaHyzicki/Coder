@@ -51,22 +51,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-                    #Tests:
-# w=word(chars,4)
-# print(w.getWord())
-# w.roll()
-# print(w.getWord())
-
-# w.setWord([0,0,0,3])
-# print(w.getWord())
-
-# w.roll()
-# print(ciastko)
-# print(w.getWord())
-# print(ciastko)
-
-# w.setWord([3,3,3,3])
-# print(w.getWord())
-# w.roll()
-# print(w.getWord())
